@@ -4,7 +4,7 @@ Puedes encontrar los siguientes conceptos aplicados:
 
 DataFrames de Pandas,
 Carga de Datos,
-Mostar los Datos,
+Mostrar los Datos,
 Limpieza de Datos,
 Filtrado de Datos,
 Filtrado de Columnas,
